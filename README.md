@@ -1,4 +1,4 @@
-🚀 Task Tracker CLI
+🚀 Task Tracker CLI.
 A lightweight, efficient Command Line Interface (CLI) application built with Python to manage your daily productivity. This tool uses local JSON storage to track tasks through their entire lifecycle without the need for a complex database.
 
 ✨ Key Features
